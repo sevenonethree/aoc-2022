@@ -131,3 +131,4 @@ dmypy.json
 # Temp files (scratch pad)
 **/temp*
 
+**/.DS_Store

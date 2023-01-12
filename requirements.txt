@@ -1,5 +1,8 @@
+advent-of-code-data[nb]
+ advent-of-code-data
 jupyter
 jupyterlab
 notebook
 numpy
 pandas
+parse
